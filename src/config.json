@@ -1,0 +1,5 @@
+{
+    "rpcUrl": "https://rpc-testnet.monadinfra.com",
+    "marginAccountAddress": "0x4B186949F31FCA0aD08497Df9169a6bEbF0e26ef",
+    "routerAddress": "0xc4b11B176D4194A0175709cac9fEf9DFD40C005A"
+}
